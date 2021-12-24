@@ -1,0 +1,13 @@
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\bin\Debug\Get Info UID Facebook.exe.config
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\bin\Debug\Get Info UID Facebook.exe
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\bin\Debug\Get Info UID Facebook.pdb
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\obj\Debug\Get Info UID Facebook.csproj.AssemblyReference.cache
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\obj\Debug\Get_Info_UID_Facebook.Form1.resources
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\obj\Debug\Get_Info_UID_Facebook.Properties.Resources.resources
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\obj\Debug\Get Info UID Facebook.csproj.GenerateResource.cache
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\obj\Debug\Get Info UID Facebook.csproj.CoreCompileInputs.cache
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\obj\Debug\Get Info UID Facebook.csproj.CopyComplete
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\obj\Debug\Get Info UID Facebook.exe
+C:\Users\opc4\source\repos\Get Info UID Facebook\Get Info UID Facebook\obj\Debug\Get Info UID Facebook.pdb
